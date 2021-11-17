@@ -1,0 +1,47 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Urban Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Security Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "30fb87cf-de7c-3d25-2ec2-49fdfbf188ec",
+      "46194c03-6363-6120-8b6a-349d4856558d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Disaster, Vulnerability and Resilience",
+  "course_description": "In recent years, the redistribution of risk has created conditions for natural and technological disasters to become more widespread, more difficult to manage, and more discriminatory in their effects. Policy and planning decision-makers frequently focus on the impact that human settlement patterns, land use decisions, and risky technologies can have on vulnerable populations. However, to ensure safety and promote equity, they also must be familiar with the social and political dynamics that are present at each stage of the disaster management cycle. Therefore, this course will provide students with:\n\n1.  An understanding of the breadth of factors that give rise to disaster vulnerability; and\n2.  A foundation for assessing and managing the social and political processes associated with disaster policy and planning.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.941",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
